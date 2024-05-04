@@ -21,3 +21,5 @@ Here are some ideas to get you started:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=eastgloss0330)](https://solved.ac/eastgloss0330)
