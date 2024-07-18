@@ -23,3 +23,5 @@ Here are some ideas to get you started:
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=eastgloss0330)](https://solved.ac/eastgloss0330)
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F03do-new30&count_bg=%23FFADAD&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
